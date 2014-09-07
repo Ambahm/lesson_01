@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env/python
 """Changed to Github username ``Hello Aahmed`` statement."""
 
-print " Hello Aahmed ! "
+print " Hello A ahmed ! "
