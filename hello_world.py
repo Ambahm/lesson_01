@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Prints a ``Hello Aahmed`` statement."""
-""" changed Hello world' to 'Github User Name'.""""
+"""Change to Github username ``Hello Aahmed`` statement."""
+
 
 print "Hello Aahmed!"
