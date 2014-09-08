@@ -1,4 +1,4 @@
 #!/usr/bin/env  python
-# -*- coding: utf-8 -*-
-"""Changed to Github username ``Hello Aahmed`` statement."""
+#-*- coding: utf-8 -*-
+"""Prints a ``Hello World``statement."""
 print "Hello aahmed!"
